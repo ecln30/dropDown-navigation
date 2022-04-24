@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const feature = document.querySelector('.feature')
+const company = document.querySelector(".company")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
